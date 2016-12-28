@@ -31,19 +31,19 @@
 
 输出为：
 
-	valid output formats for -f are (`*' denotes default):
+		valid output formats for -f are (`*' denotes default):
 
-  * bin       flat-form binary files (e.g. DOS .COM, .SYS)
-    aout      Linux a.out object files
-    aoutb     NetBSD/FreeBSD a.out object files
-    coff      COFF (i386) object files (e.g. DJGPP for DOS)
-    elf       ELF32 (i386) object files (e.g. Linux)
-    as86      Linux as86 (bin86 version 0.3) object files
-    obj       MS-DOS 16-bit/32-bit OMF object files
-    win32     Microsoft Win32 (i386) object files
-    rdf       Relocatable Dynamic Object File Format v2.0
-    ieee      IEEE-695 (LADsoft variant) object file format
-    macho     NeXTstep/OpenStep/Rhapsody/Darwin/MacOS X object files
+	  * bin       flat-form binary files (e.g. DOS .COM, .SYS)
+	    aout      Linux a.out object files
+	    aoutb     NetBSD/FreeBSD a.out object files
+	    coff      COFF (i386) object files (e.g. DJGPP for DOS)
+	    elf       ELF32 (i386) object files (e.g. Linux)
+	    as86      Linux as86 (bin86 version 0.3) object files
+	    obj       MS-DOS 16-bit/32-bit OMF object files
+	    win32     Microsoft Win32 (i386) object files
+	    rdf       Relocatable Dynamic Object File Format v2.0
+	    ieee      IEEE-695 (LADsoft variant) object file format
+	    macho     NeXTstep/OpenStep/Rhapsody/Darwin/MacOS X object files
 
 我们这里使用的是flat-form binary文件。
 
